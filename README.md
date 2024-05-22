@@ -17,6 +17,7 @@ I am a Dynamics 365 Developer at EngageRM in Melbourne, Australia, passionate ab
 My current focus is on expanding my technical expertise in C#, Web API, and Web App development. I'm dedicated to leveraging Dynamics 365 and the Power Platform to create innovative CRM solutions that drive business impact. 
 Eager to grow and contribute to team success, I'm open to connecting with professionals who share a similar passion for these technologies.
 </p>
+
 <p>
     Visit my personal site to explore my works: https://troyphan.com/
 </p>
