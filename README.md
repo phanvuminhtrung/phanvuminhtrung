@@ -35,7 +35,7 @@ My current focus is on expanding my technical expertise in C#, Web API, and Web 
     </a>
 </p>
 <br />
-<div align="center">
+<div align="center" >
     <h1 align="left">🌟 This is me most of the time</h1>
 </div>
 <img src="./assets/background.gif" alt="banner" width="700">
