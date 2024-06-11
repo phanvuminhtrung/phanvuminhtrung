@@ -20,7 +20,7 @@ My current focus is on expanding my technical expertise in C#, Web API, and Web 
 </p>
 
 <p>
-    Discover my blogs tech here: https://troyphan.com/
+    Discover my blogs tech here: https://troyphan.com
 </p>
 
 <p align="left">
