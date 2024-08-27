@@ -6,6 +6,7 @@
     <h1 align="left">😎 Troy Phan</h1>
 </div>
 
+
 **`Dynamics 365 Developer`**
 
   <!-- personal detail -->
