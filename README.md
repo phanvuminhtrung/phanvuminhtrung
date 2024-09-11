@@ -8,9 +8,9 @@
 
 **`Dynamics 365 Developer`**
 
-  <!-- personal detail -->
+<!-- personal detail -->
 <p style='text-align: justify;'>
-I'm Troy, but you can call me Troyza!
+I'm Vu, but you can call me Troy!
 </p>
 <p style='text-align: justify;'>
 I am a Dynamics 365 Developer located in Melbourne, Australia, passionate about the Power Platform, Azure Services, and Web Application Development.
