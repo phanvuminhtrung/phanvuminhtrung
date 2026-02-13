@@ -16,7 +16,9 @@ I'm Vu, but you can call me Troy!
 I am a Dynamics 365 Developer located in Melbourne, Australia, passionate about the Power Platform, Azure Services, and Web Application Development.
 </p>
 <p>
-My current focus is on expanding my technical expertise in C#, Web API, and Web App development. I'm dedicated to leveraging Dynamics 365 and the Power Platform to create innovative CRM solutions that drive business impact. Eager to grow and contribute to team success, I'm open to connecting with professionals who share a similar passion for these technologies.
+I believe we're all here for a reason. I put my energy into what I can control, commit fully to the work that matters, and accept life as it unfolds.
+
+I hope our paths cross someday - and when they do, we bring out the best in each other.
 </p>
 
 <p>
