@@ -15,8 +15,8 @@ I'm Troy, but you can call me Troyza!
 <p>
 I believe we're all here for a reason. I put my energy into what I can control, commit fully to the work that matters, and accept life as it unfolds.
 I hope our paths cross someday - and when they do, we bring out the best in each other.
-Discover my blogs tech here: https://troyphan.com/
 </p>
+<p>Discover my blogs tech here: https://troyphan.com/</p>
 
 <p align="left">
     <a href="https://www.linkedin.com/in/vuphanit/">
