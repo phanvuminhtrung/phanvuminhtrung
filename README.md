@@ -10,19 +10,12 @@
 
 <!-- personal detail -->
 <p style='text-align: justify;'>
-I'm Vu, but you can call me Troy!
-</p>
-<p style='text-align: justify;'>
-I am a Dynamics 365 Developer located in Melbourne, Australia, passionate about the Power Platform, Azure Services, and Web Application Development.
+I'm Troy, but you can call me Troyza!
 </p>
 <p>
 I believe we're all here for a reason. I put my energy into what I can control, commit fully to the work that matters, and accept life as it unfolds.
-
 I hope our paths cross someday - and when they do, we bring out the best in each other.
-</p>
-
-<p>
-    Discover my blogs tech here: https://troyphan.com/
+Discover my blogs tech here: https://troyphan.com/
 </p>
 
 <p align="left">
@@ -38,7 +31,7 @@ I hope our paths cross someday - and when they do, we bring out the best in each
 </p>
 <br />
 <div align="center" >
-    <h1 align="left">🌟 This is me most of the time</h1>
+    <h1 align="left">🌟 Me most of the time...</h1>
 </div>
 <img src="./assets/background.gif" alt="banner" width="700">
 
