@@ -1,5 +1,5 @@
 <p align="left">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=500&duration=2000&pause=500&color=22F7F5&vCenter=true&multiline=true&random=false&width=600&height=80&lines=DYNAMICS+365+DEVELOPER;POWER+PLATFORM+AND+AZURE+SERVICES+ENTHUSIASTS;ON+MY+WAY+TO+BECOME+THE+COOLEST+DEVELOPER" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Nunito&weight=500&duration=2000&pause=500&color=22F7F5&vCenter=true&multiline=true&random=false&width=600&height=80&lines=SOFTWARE+DEVELOPER;HAPPYNESS+PURSUER;FOOTBALL+LOVER" alt="Typing SVG" /></a>
 </p>
 
 <div align="left">
